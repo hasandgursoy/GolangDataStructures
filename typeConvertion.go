@@ -5,7 +5,7 @@ import (
 	"strconv"
 )
 
-func main()  {
+func typeConvertion()  {
 	
 	var (
 		age int32 = 46
