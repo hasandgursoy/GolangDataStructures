@@ -4,7 +4,7 @@ import "fmt"
 
 var packVar = "Package Scpoe"
 
-func main()  {
+func scopes()  {
 
 	// Scope yapisi diger dillerindekinden farkli degil akil yuruterek bulunabilinir.
 
