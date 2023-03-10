@@ -5,7 +5,7 @@ import (
 	"math"
 )
 
-func main()  {
+func constans()  {
 	
 const pi float64 = math.Pi
 const log2E float64 = math.Log2E
