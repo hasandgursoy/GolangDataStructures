@@ -5,7 +5,7 @@ import (
 	"time"
 )
 
-func main() {
+func functions() {
 
 	fmt.Printf("My Age : %v ",(sayMyAge(1997)))
 
