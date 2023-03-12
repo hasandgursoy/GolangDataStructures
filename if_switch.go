@@ -5,7 +5,7 @@ import (
 	"math/rand"
 )
 
-func main() {
+func if_switch() {
 
 	// IF - Switch
 
