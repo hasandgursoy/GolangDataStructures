@@ -11,7 +11,7 @@ import (
 	"strings"
 )
 
-func main() {
+func error_handling() {
 
 	// Go da hata ayiklama konusu uzerinde calisirken bir fonksiyon yazdigimizda error degeri donebilecegini hesap etmemiz gerekiyor.
 	// Detayli bir sekilde tasarlarsak gelecekte o kadar rahat ederiz. Yoksa NaN donuyor
