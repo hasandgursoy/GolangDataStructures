@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-func main() {
+func arrays() {
 
 	arrays := []int{10, 20, 30, 40, 50}
 
