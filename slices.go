@@ -64,7 +64,8 @@ func slices() {
 
 	fmt.Println(&aslc)
 
-	deger := copy(mySlc, aslc)
+	deger := []int{0,1,2,3}
+	_= copy(deger, aslc)
 	fmt.Println(deger)
 	fmt.Println(&aslc)
 

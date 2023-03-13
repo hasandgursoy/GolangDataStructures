@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-func main() {
+func Struct() {
 
 	type employee struct { // underlying type
 		name      string
